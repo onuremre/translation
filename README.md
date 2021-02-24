@@ -1,4 +1,4 @@
 # translation
  Basic translation site
 	
-	Template: https://www.creative-tim.com/product/gaia-bootstrap-template
+Template: <a href="https://www.creative-tim.com/product/gaia-bootstrap-template">Free Gaia Template</a>
