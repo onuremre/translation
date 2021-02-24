@@ -9,7 +9,7 @@
 			<div class="content">
 				<div class="title-area">
 					<h1 class="title-modern">... Tercüme</h1>
-					<h2>Probably the most stylish bootstrap template in the world!</h2>
+					<h2>Profesyonel Tercüme</h2>
 						<div class="separator line-separator">♦</div>
 				</div>
 			</div>
